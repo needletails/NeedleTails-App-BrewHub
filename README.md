@@ -1,13 +1,13 @@
 ![NeedleTails](https://github.com/needletails/needletails-website/blob/main/src/assets/devLogo.svg)
-# NeedleTails App Hub
+# NeedleTails App BrewHub
 
-NeedleTails App Hub is a collection of educational full-stack Swift projects designed to help aspiring developers learn and grow their software engineering skills. This repository serves as a central hub for various applications, each created with the purpose of providing hands-on learning opportunities.
+NeedleTails App BrewHub is a collection of educational full-stack Swift projects designed to help aspiring developers learn and grow their software engineering skills. This repository serves as a central hub for various applications, each created with the purpose of providing hands-on learning opportunities.
 
 ## About the Hub
 
 Whether you're a beginner just starting your coding journey or an experienced engineer looking to expand your knowledge, you'll find a diverse range of full-stack Swift projects here that cover a wide spectrum of software engineering concepts and technologies. From iOS and macOS applications built with SwiftUI to robust backend services running on Linux and cross-platform solutions for Android, this hub offers a rich tapestry of learning experiences.
 
-Each project within the NeedleTails App Hub is accompanied by detailed documentation, step-by-step guides, and explanations of the underlying principles and design choices. By exploring and engaging with these projects, you'll not only gain practical skills in Swift and related technologies but also develop a deeper understanding of software engineering best practices, architectural patterns, and problem-solving methodologies.
+Each project within the NeedleTails App BrewHub is accompanied by detailed documentation, step-by-step guides, and explanations of the underlying principles and design choices. By exploring and engaging with these projects, you'll not only gain practical skills in Swift and related technologies but also develop a deeper understanding of software engineering best practices, architectural patterns, and problem-solving methodologies.
 
 ## Featured Projects
 
