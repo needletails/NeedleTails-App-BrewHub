@@ -21,6 +21,12 @@ Each project within the NeedleTails App BrewHub is accompanied by detailed docum
 
 To get started, simply browse the projects, fork the repositories, and dive into the learning materials. Each project has its own README file with detailed instructions on how to set up the development environment, run the application, and explore the codebase.
 
+## Sample Apps
+
+Trekker https://github.com/needletails/Trekker
+
+- Trekker Is a real world MVP project that demonstrates a tour package platform. 
+
 ## Contributing
 
 We welcome contributions from the community! If you have an idea for a new project, want to improve an existing one, or have any feedback, please feel free to open an issue or submit a pull request. Together, let's cultivate a vibrant community of learners and shape the future of software engineering.
